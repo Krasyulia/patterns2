@@ -1,0 +1,5 @@
+/src/test/java/CardDeliveryTest.java
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/test/
